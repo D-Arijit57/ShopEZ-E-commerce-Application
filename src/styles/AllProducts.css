@@ -1,0 +1,149 @@
+.all-products-page{
+    background-color: #262c33;
+    height: fit-content;
+    width: 100%;
+    padding: 15vh 3vw 3vh 3vw;
+}
+
+.all-products-container{
+
+    height: 82vh;
+    display: flex;   
+    width: 100%;
+}
+
+
+.all-products-filter{
+    width: 25%;
+    border-right:1px solid #c6c4c4 ;
+    border-top:1px solid #c6c4c4 ;
+    height: 82vh;
+    padding-left: 2vw;
+    padding-top: 3vh;
+}
+
+.all-products-filter h4{
+    color: rgb(187, 199, 210);
+}
+.all-product-filters-body{
+    padding-left: 2vw;
+}
+
+.all-product-filters-body h6{
+    color: rgb(187, 199, 210);
+}
+
+.all-product-sub-filter-body{
+    padding-left: 1.5vw;
+
+}
+.all-product-sub-filter-body label{
+    color: rgb(146, 157, 166);
+    cursor: pointer;
+}
+.all-product-sub-filter-body input{
+    cursor: pointer;
+}
+
+.all-products-body{
+    width: 75%;
+    height: 82vh;
+    padding: 0vh 2vw 0vh 2vw ;
+}
+
+.all-products-body h3{
+    color: rgb(203, 217, 228);
+}
+
+.all-products{
+    margin-top: 3vh;
+    height: 75vh;
+    width: 100%;
+    overflow-y: scroll;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    row-gap: 30px;
+    padding-bottom: 5vh;
+}
+
+.all-product-item{
+    display: flex;
+    justify-content: center;
+}
+
+.all-product{
+
+    width: 90%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    color: #e7dadadd;
+}
+.all-product:hover{
+    background-color: #181818;
+    border-radius: 0.5rem;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+}
+
+.all-product img{
+
+    width: 90%;
+    margin-left: 5%;
+    height: 40vh;
+    border-radius: 0.4rem;
+    
+}
+
+.all-product .all-product-data{
+
+    margin-left: 5%;
+    width: 90%;
+}
+
+.all-product .all-product-data h6{
+
+    margin: 0;
+}
+
+.all-product .all-product-data p{
+    font-size: 0.8rem;
+    margin: 0;
+}
+
+.all-product .all-product-data h5{
+
+    margin: 0;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.all-product .all-product-data h5 s{
+
+    font-size: 0.8rem;
+    color: rgb(255, 65, 65);
+}
+
+.all-product .all-product-data h5 p{
+    font-size: 0.8rem;
+    margin: 0;
+}
+
+.all-product button{
+
+    background-color: #18181800;
+    color: rgba(232, 124, 30, 0.916);
+    border: 1px solid rgba(232, 124, 30, 0.916);
+    width: 80%;
+    margin: 20px 10% 10px 10%;
+    padding: 7px 0;
+    border-radius: 0.5rem;
+}
+.all-product button:hover{
+
+    background-color: rgba(232, 124, 30, 0.916);
+    color: aliceblue;
+    border: 1px solid rgba(232, 124, 30, 0.916);
+
+}

@@ -1,0 +1,69 @@
+.admin-page{
+    background-color: #30373f;
+    height: 100vh;
+    width: 100%;
+    padding-top: 15vh;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+
+.admin-home-card{
+    color: rgb(193, 199, 205);
+    text-align: center;
+    background-color: #181818;
+    width: 70%;
+    margin-left: 15%;
+    padding: 4vh 0;
+    border-radius: 0.8rem;
+    border: 1px solid #4e4c4cc7;
+}
+.admin-home-card:hover{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+
+
+.admin-home-card button{
+
+    border: 1.5px solid #f08329df;
+    background-color: #30373f00;
+    color: #f08329df;
+    padding: 5px 25px;
+    border-radius: 0.5rem;
+}
+
+.admin-home-card button:hover{
+    background-color: #f08329df;
+    color: aliceblue;
+    padding: 5px 25px;
+    border-radius: 0.5rem;
+}
+
+.admin-banner-input{
+
+    width: 42vw;
+    padding: 4vh 3vw ;
+}
+.admin-banner-input h5{
+
+    margin-bottom: 20px;
+}
+.admin-banner-input input{
+    background-color: #181818;
+    color: aliceblue;
+    border: 1px solid #7b7979;
+}
+.admin-banner-input input:focus{
+    background-color: #181818;
+    color: aliceblue;
+    outline: none;
+}
+.admin-banner-input button{
+
+    margin-top: 30px;
+}
+.admin-banner-input button:hover{
+
+    
+}
