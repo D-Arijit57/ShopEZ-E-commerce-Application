@@ -28,7 +28,7 @@ Shubham is excited to receive his new phone and looks forward to tracking its de
 ⚡ Payment Gateway Integration: Enable secure online payments directly through the platform.
 👥 Team Members and Individual Contribution
 
-👨‍🏫 Ashit Mallick – Bidisha Biswas (Backend Developer)
+👨‍🏫 Ashit Mallick (Backend Developer)
 -Designed the backend architecture using Node.js and Express.js.
 -Developed RESTful APIs for authentication, product listings, wishlist, orders, etc.
 -Implemented JWT-based authentication with role-based access control.
