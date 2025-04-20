@@ -1,0 +1,21 @@
+[
+    {"label": "smartphones"},
+    {"label": "laptops"},
+    {"label": "skincare"}, 
+    {"label": "groceries"}, 
+    {"label": "home decoration"}, 
+    {"label": "furniture"}, 
+    {"label": "tops"}, 
+    {"label": "womens dresses"}, 
+    {"label": "womens shoes"}, 
+    {"label": "mens shirts"}, 
+    {"label": "mens shoes"}, 
+    {"label": "mens watches"}, 
+    {"label": "womens watches"}, 
+    {"label": "womens bags"}, 
+    {"label": "womens jewellery"}, 
+    {"label": "sunglasses"}, 
+    {"label": "automotive"}, 
+    {"label": "motorcycle"}, 
+    {"label": "lighting"}
+]
